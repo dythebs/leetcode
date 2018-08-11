@@ -6,10 +6,10 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-static int x = []() {
-     std::ios::sync_with_stdio(false);
-     cin.tie(NULL);
-     return 0;
+static auto xxx=[]{
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    return nullptr;
 }();
 class Solution {
 public:
