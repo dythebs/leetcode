@@ -1,3 +1,8 @@
+static auto xxx=[]{
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    return nullptr;
+}();
 class Solution {
 public:
     int longestValidParentheses(string s) {
